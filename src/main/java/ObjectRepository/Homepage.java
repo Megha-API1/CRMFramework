@@ -1,5 +1,8 @@
 package ObjectRepository;
 
 public class Homepage {
+	public static void main(String[] args) {
+		System.out.println("abcd123");
+	}
 
 }
